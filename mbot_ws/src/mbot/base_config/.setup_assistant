@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: mbot_description
+    relative_path: urdf/urdf/mbot_with_kinect.urdf
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/mbot.srdf
+  CONFIG:
+    author_name: ss
+    author_email: ss@126.com
+    generated_timestamp: 1563606066

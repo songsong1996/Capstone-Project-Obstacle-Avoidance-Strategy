@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/songsong/catkin_workspace/teb_local_planner/devel/setup.sh

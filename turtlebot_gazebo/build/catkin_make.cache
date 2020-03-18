@@ -1,0 +1,2 @@
+turtlebot_simulator-indigo/turtlebot_gazebo:turtlebot_simulator-indigo/turtlebot_simulator:turtlebot_simulator-indigo/turtlebot_stage:turtlebot_simulator-indigo/turtlebot_stdr
+-DCATKIN_DEVEL_PREFIX=/home/songsong/catkin_workspace/turtlebot_gazebo/devel -DCMAKE_INSTALL_PREFIX=/home/songsong/catkin_workspace/turtlebot_gazebo/install -G Unix Makefiles

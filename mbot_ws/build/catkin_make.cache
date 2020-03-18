@@ -1,0 +1,2 @@
+mbot/arbotix_ros/arbotix:mbot/arbotix_ros/arbotix_controllers:mbot/arbotix_ros/arbotix_firmware:mbot/arbotix_ros/arbotix_msgs:mbot/arbotix_ros/arbotix_python:mbot/arbotix_ros/arbotix_sensors:mbot/base_config:mbot/mbot_description:mbot/mbot_gazebo:mbot/mbot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/songsong/catkin_workspace/mbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/songsong/catkin_workspace/mbot_ws/install -G Unix Makefiles

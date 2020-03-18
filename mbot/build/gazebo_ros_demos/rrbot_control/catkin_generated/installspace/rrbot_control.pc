@@ -1,0 +1,8 @@
+prefix=/home/songsong/catkin_workspace/mbot/install
+
+Name: rrbot_control
+Description: Description of rrbot_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/songsong/catkin_workspace/mbot/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/songsong/catkin_workspace/mbot_ws/install
+
+Name: base_config
+Description: Description of base_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/songsong/catkin_workspace/mbot_ws/install/lib 
+Requires: 

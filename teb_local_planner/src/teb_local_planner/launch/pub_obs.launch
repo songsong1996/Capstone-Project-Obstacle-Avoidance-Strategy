@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+        <node name = "pub_obs" pkg = "teb_local_planner" type = "pub_obs"/>
+</launch>

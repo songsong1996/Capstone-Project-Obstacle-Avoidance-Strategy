@@ -1,0 +1,8 @@
+prefix=/home/songsong/catkin_workspace/mbot_ws/devel
+
+Name: mbot_arm_config
+Description: Description of mbot_arm_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/songsong/catkin_workspace/mbot_ws/devel/lib 
+Requires: 

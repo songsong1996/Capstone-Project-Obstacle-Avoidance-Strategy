@@ -1,0 +1,2 @@
+teb_local_planner
+-DCATKIN_DEVEL_PREFIX=/home/songsong/catkin_workspace/teb_local_planner/devel -DCMAKE_INSTALL_PREFIX=/home/songsong/catkin_workspace/teb_local_planner/install -G Unix Makefiles

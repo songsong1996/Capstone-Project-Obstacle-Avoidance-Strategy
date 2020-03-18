@@ -1,0 +1,8 @@
+prefix=/home/songsong/catkin_workspace/mbot_ws/devel
+
+Name: arbotix_python
+Description: Description of arbotix_python
+Version: 0.10.0
+Cflags: 
+Libs: -L/home/songsong/catkin_workspace/mbot_ws/devel/lib 
+Requires: 

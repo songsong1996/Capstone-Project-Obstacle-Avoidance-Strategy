@@ -1,0 +1,8 @@
+controller_list:
+  - name: fake_move_controller
+    joints:
+      - base
+      - back_caster_joint
+      - front_caster_joint
+      - left_wheel_joint
+      - right_wheel_joint

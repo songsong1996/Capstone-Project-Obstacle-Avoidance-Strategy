@@ -1,0 +1,8 @@
+prefix=/home/songsong/catkin_workspace/mbot_ws/install
+
+Name: arbotix_sensors
+Description: Description of arbotix_sensors
+Version: 0.10.0
+Cflags: 
+Libs: -L/home/songsong/catkin_workspace/mbot_ws/install/lib 
+Requires: 
