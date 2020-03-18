@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboutermatch.a  CMakeFiles/outermatch.dir/outermatch.cpp.o
+/usr/bin/ranlib liboutermatch.a

@@ -1,0 +1,5 @@
+/home/songsong/Documents/Softwares/Clion/clion-2018.3.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/songsong/Documents/private/Graduation design/codes/camera-calibration"
+-- Found OpenCV: /home/songsong/Documents/Softwares/opencv-4.0.1/build (found version "4.0.1") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/songsong/Documents/private/Graduation design/codes/camera-calibration/cmake-build-debug
