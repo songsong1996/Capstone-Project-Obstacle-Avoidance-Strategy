@@ -11,4 +11,5 @@ Reason of obstacle prediction: Because the vehicle has a delay time due to hardw
 
 Obstacle Avoidance Strategy: We use neuralevolution method to do this part, and it obtains more than 94% after modification.
 Here is one of the result images of obstacle avoidance strategy
-![](imgs/obstacle%20strategy.png)
+
+<img src='imgs/obstacle%20strategy.png' width="300">
