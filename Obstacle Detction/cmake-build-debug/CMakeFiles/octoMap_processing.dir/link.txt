@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboctoMap_processing.a  CMakeFiles/octoMap_processing.dir/octoMap_processing.cpp.o
+/usr/bin/ranlib liboctoMap_processing.a

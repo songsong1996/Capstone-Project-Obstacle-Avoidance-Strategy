@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/songsong/Documents/private/Graduation-design/codes/Intelrealsense/1/readImages.cpp
+readImages.h
+/home/songsong/Documents/private/Graduation-design/codes/Intelrealsense/1/readImages.h
+
+/home/songsong/Documents/private/Graduation-design/codes/Intelrealsense/1/readImages.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+dirent.h
+-
+unistd.h
+-
+iostream
+-
+vector
+-
+

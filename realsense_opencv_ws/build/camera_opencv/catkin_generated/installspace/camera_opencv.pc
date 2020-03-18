@@ -1,0 +1,8 @@
+prefix=/home/songsong/realsense_opencv_ws/install
+
+Name: camera_opencv
+Description: Description of camera_opencv
+Version: 0.0.0
+Cflags: -I/home/songsong/realsense_opencv_ws/install/include
+Libs: -L/home/songsong/realsense_opencv_ws/install/lib 
+Requires: cv_bridge image_transport roscpp rospy std_msgs sensor_msgs message_runtime

@@ -1,0 +1,3 @@
+/home/songsong/Documents/private/Graduation-design/codes/SGM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/songsong/Documents/private/Graduation-design/codes/SGM/cmake-build-debug/CMakeFiles/main.dir
+/home/songsong/Documents/private/Graduation-design/codes/SGM/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -msse3 -g  -rdynamic CMakeFiles/elas.dir/src/descriptor.cpp.o CMakeFiles/elas.dir/src/main.cpp.o  -o elas 

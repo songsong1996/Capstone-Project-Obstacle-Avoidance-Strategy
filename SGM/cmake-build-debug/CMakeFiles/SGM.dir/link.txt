@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSGM.a  CMakeFiles/SGM.dir/SGM.cpp.o
+/usr/bin/ranlib libSGM.a

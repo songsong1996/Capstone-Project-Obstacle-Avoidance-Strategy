@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpcl2tree.a  CMakeFiles/pcl2tree.dir/pcl2tree.cpp.o
+/usr/bin/ranlib libpcl2tree.a

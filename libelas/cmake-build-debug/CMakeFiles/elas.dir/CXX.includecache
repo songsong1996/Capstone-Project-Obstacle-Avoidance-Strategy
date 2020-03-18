@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/songsong/Documents/private/Graduation design/codes/libelas (copy)/src/descriptor.cpp
+descriptor.h
+/home/songsong/Documents/private/Graduation design/codes/libelas (copy)/src/descriptor.h
+emmintrin.h
+-
+algorithm
+-
+math.h
+-
+cassert
+-
+stdint.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/songsong/Documents/private/Graduation design/codes/libelas (copy)/src/descriptor.h
+iostream
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+math.h
+-
+stdint.h
+-
+vector
+-
+emmintrin.h
+-
+stdint.h
+-
+pmmintrin.h
+-
+stdint.h
+-
+cstdlib
+-
+climits
+-
+cstring
+-
+fstream
+-
+stdint.h
+-
+iomanip
+-
+string
+-
+sys/time.h
+-
+stdint.h
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcontours_process.a  CMakeFiles/contours_process.dir/contours_processor.cpp.o
+/usr/bin/ranlib libcontours_process.a

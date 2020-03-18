@@ -1,0 +1,2 @@
+/usr/bin/ar qc libread_images.a  CMakeFiles/read_images.dir/readImages.cpp.o
+/usr/bin/ranlib libread_images.a

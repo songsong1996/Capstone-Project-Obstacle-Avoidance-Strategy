@@ -1,0 +1,2 @@
+/usr/bin/ar qc libinpainting.a  CMakeFiles/inpainting.dir/inpainting.cpp.o
+/usr/bin/ranlib libinpainting.a

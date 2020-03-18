@@ -1,0 +1,2 @@
+/usr/bin/ar qc libalign_depth_color.a  CMakeFiles/align_depth_color.dir/align_depth_color.cpp.o
+/usr/bin/ranlib libalign_depth_color.a
