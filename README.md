@@ -10,3 +10,4 @@ Obstacle prediction: We use a simple neural network take the changes of obstacle
 Reason of obstacle prediction: Because the vehicle has a delay time due to hardware of it, therefore, we need predict the position of obstacles, and make the avoidance strategy in advance.
 
 Obstacle Avoidance Strategy: We use neuralevolution method to do this part, and it obtains more than 94% after modification.
+
